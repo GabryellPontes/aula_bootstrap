@@ -1,4 +1,8 @@
 
+body {
+    font:20px, Arial, sans-serif;
+}
+
 .navbar {
     background-color: #03D9B9;
 }
@@ -8,5 +12,16 @@
 }
 
 .margin {
-    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #e67e38;
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
